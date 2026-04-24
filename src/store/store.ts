@@ -56,7 +56,7 @@ function defaultState(): AppState {
       ],
     },
     searchProfile: {
-      buyOrRent: "buy",
+      buyOrRent: "undecided",
       ceilingUsd: null,
       areas: [],
       timeline: "",
